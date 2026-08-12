@@ -14,10 +14,12 @@
 
 ```
 week01/
-  solution01.py
-  solution02.py
-  ...
+  github-id/
+    solution01.py
+    solution02.py
+    ...
 week02/
-  solution01.py
-  ...
+  github-id/
+    solution01.py
+    ...
 ```
