@@ -1,6 +1,8 @@
 # Local agent settings
 .codex/
 .claude/
+AGENTS.md
+CLAUDE.md
 
 # OS files
 .DS_Store
