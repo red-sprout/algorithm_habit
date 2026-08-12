@@ -1,0 +1,39 @@
+# Local agent settings
+.codex/
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+
+# C++
+a.out
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
+
+# Java
+*.class
+target/
+out/
+.gradle/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
