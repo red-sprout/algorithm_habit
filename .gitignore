@@ -1,4 +1,5 @@
 # Local agent settings
+.agents/
 .codex/
 .claude/
 AGENTS.md
